@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Anhad Swaroop</h1>
 <h3 align="center">Computer Science undergraduate who is ready to fly !!</h3>
-<img align="right" alt="coding" width="400" src="![image](https://github.com/anhxd/anhxd/assets/93759478/7b5cfd51-e9c9-48d2-8ed3-0c8217e26299)">
+<img align="right" alt="coding" src="![image](https://github.com/anhxd/anhxd/assets/93759478/f2885416-4aa2-4e2b-917b-d9a20bb5ec8b)">
 
 - 🔭 I’m currently working on **Machine Learning, Machine Vision and DSA skills**
 

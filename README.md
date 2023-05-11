@@ -1,9 +1,12 @@
 
+
+
+
 <h1 align="center">Hello 👋, I'm Anhad Swaroop</h1>
 <h3 align="center">Computer Science undergraduate who is ready to fly !!</h3>
 <img align="right" width="300" alt="img"   src="gif.gif">
 
-<p align="left"> <img  src="https://komarev.com/ghpvc/?username=anhxd&label=Profile%20views&color=0e75b6&style=flat" alt="anhxd" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=anhxd&label=Profile%20views&color=0e75b6&style=flat" alt="anhxd" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning, Machine Vision and DSA skills**
 
@@ -13,6 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/anhads" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="anhads" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

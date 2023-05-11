@@ -3,7 +3,7 @@
 <h3 align="center">Computer Science undergraduate who is ready to fly !!</h3>
 <img align="right" alt="img"   src="gif.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anhxd&label=Profile%20views&color=0e75b6&style=flat" alt="anhxd" /> </p>
+<p align="left"> <img width="400" src="https://komarev.com/ghpvc/?username=anhxd&label=Profile%20views&color=0e75b6&style=flat" alt="anhxd" /> </p>
 
 - 🔭 I’m currently working on **Machine Learning, Machine Vision and DSA skills**
 

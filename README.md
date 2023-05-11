@@ -1,7 +1,7 @@
 
 <h1 align="center">Hello 👋, I'm Anhad Swaroop</h1>
 <h3 align="center">Computer Science undergraduate who is ready to fly !!</h3>
-<img align="right" width="400" alt="img"   src="gif.gif">
+<img align="right" width="350" alt="img"   src="gif.gif">
 
 <p align="left"> <img  src="https://komarev.com/ghpvc/?username=anhxd&label=Profile%20views&color=0e75b6&style=flat" alt="anhxd" /> </p>
 
